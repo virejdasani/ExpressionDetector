@@ -1,7 +1,9 @@
 # Expression Detector
 ### Expression Detector is a website that uses you devices camera to tell you what expression you are making using face models
 
-> How it works
+- Visit Expression Detector [here](https://virejdasani.github.io/ExpressionDetector/)
+
+> What it looks like
 ![Demo Image](https://github.com/virejdasani/ExpressionDetector/blob/master/assets/DemoImg.png?raw=true)
 
 ### Note
