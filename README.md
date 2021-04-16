@@ -4,7 +4,7 @@
 > How it works
 ![Demo Image](https://github.com/virejdasani/ExpressionDetector/blob/master/assets/DemoImg.png?raw=true)
 
-#### Note
+### Note
 - For some reason, this doesn't work with firefox and other non-chromium based browsers
 - Use Google Chrome for the perfect experience!
 
